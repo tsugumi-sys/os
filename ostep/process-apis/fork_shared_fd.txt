@@ -1,0 +1,10 @@
+parent write 0 | pid=17836 | other_pid=17837 | fd=3
+parent write 1 | pid=17836 | other_pid=17837 | fd=3
+parent write 2 | pid=17836 | other_pid=17837 | fd=3
+parent write 3 | pid=17836 | other_pid=17837 | fd=3
+parent write 4 | pid=17836 | other_pid=17837 | fd=3
+child write 0 | pid=17837 | other_pid=17836 | fd=3
+child write 1 | pid=17837 | other_pid=17836 | fd=3
+child write 2 | pid=17837 | other_pid=17836 | fd=3
+child write 3 | pid=17837 | other_pid=17836 | fd=3
+child write 4 | pid=17837 | other_pid=17836 | fd=3
